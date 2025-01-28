@@ -1,5 +1,5 @@
 # Womier_RD75
-In the [downloads section](https://github.com/FirmwareLeaks/Womier_RD75/releases/tag/Womier) you can find
+In the [downloads section](https://github.com/FirmwareLeaks/Womier_RD75/releases/tag/RD75) you can find
   - Original firmware for the Womier RD75 keyboard
   - The VIA JSON file that contains the default keymapping and instructions
   - The User manual (PDF)
