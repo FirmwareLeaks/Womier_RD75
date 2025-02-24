@@ -1,6 +1,6 @@
-# Womier RD75 Mechanical Keyboard
+# Womier RD75 Pro Mechanical Keyboard
 In the [downloads section](https://github.com/FirmwareLeaks/Womier_RD75/releases/tag/RD75) you can find
-  - Original firmware for the Womier RD75 keyboard
+  - Original firmware for the Womier RD75 Pro keyboard
   - The VIA JSON file that contains the default keyboard definition
   - The User manual (PDF)
 
